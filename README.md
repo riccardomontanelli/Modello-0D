@@ -3,7 +3,7 @@
 - 0D model_extended.ipynb 0D model with some other trials studied
 
 - Run of the model for the average quantities.ipynb it's the 0D model adapted to be runned for the samples generated from SAFE. This
-code saves the values of the c_t and SF for ever instant and every sample in two files 
+code saves the values of the c_t and SF for every instant and every sample in two files 
 
 - QOI extraction 0D.ipynb extraction of the QOIs for the 0D model obtained from the output numpy array of Run of the model for the average quantities.ipynb
 
